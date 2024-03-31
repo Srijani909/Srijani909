@@ -1,4 +1,4 @@
-![logo]([https://github.com/Srijani909/Srijani909/blob/main/github%20banner.png](https://github.com/Srijani909/Srijani909/blob/main/github%20banner(1).png))
+![logo](https://github.com/Srijani909/Srijani909/blob/main/github%20banner(1).png)
 <h1 align="center">Hi 👋, I'm Srijani Das</h1>
 <h3 align="center">A passionate Programmer Analyst from India</h3>
 
