@@ -4,13 +4,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://private-user-images.githubusercontent.com/74038190/241765453-85cb9521-97c0-4a65-9358-7db8099fac7f.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTI0ODEwMDksIm5iZiI6MTcxMjQ4MDcwOSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NTMtODVjYjk1MjEtOTdjMC00YTY1LTkzNTgtN2RiODA5OWZhYzdmLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA0MDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNDA3VDA5MDUwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTA2Y2NkYzkwYWQwN2E4YjdhZjNkNjFkMjc2YmEyMWIxYTMxNzA2MzU4ZTVjZDkyNmU1OTczZDYzNTc4MzY5ZWEmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.EJKO4aqQcqAjMHgZavW3nbUl9n-KqhLrO6CS8Zs930w">
 
-- 🔭 I’m currently working on [React Webpages](https://github.com/Srijani909/Food-Information-homepage.git)
+- 🔭 I’m currently working on React Web Development and Automation Testing
 
 - 🌱 I’m currently learning **GenAI**
 
 - 👨‍💻 All of my projects are available at https://github.com/Srijani909?tab=repositories
 
-- 💬 Ask me about **Webpage design, Frontend development and Automation testing**
+- 💬 Ask me about **Webpage design, Frontend development and Automation testing (Web Automation, API Automation, Cypress Automation, Accessibility Testing)**
 
 - 📫 How to reach me **srijani.das909@gmail.com**
 
